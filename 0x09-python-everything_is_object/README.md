@@ -1,1 +1,1 @@
-new
+Python - Everything is object
